@@ -54,7 +54,7 @@ username: user2
 mail: user2@test.com
 ```
 
-See more example code from [ldapc_test.go](./ldapc_test.go).
+In other cases Anonymous Bind, Direct Bind or Active Directory, example code [ldapc_test.go](./ldapc_test.go).
 
 
 ## Demo
