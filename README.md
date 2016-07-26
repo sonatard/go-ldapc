@@ -1,4 +1,4 @@
-`go-ldapc` is a LDAP Authentication client module with only one API.
+`go-ldapc` is a LDAP Authentication client with only one API.
 ===============================
 
 [![GoDoc](https://godoc.org/github.com/sona-tar/go-ldapc?status.svg)](https://godoc.org/github.com/sona-tar/go-ldapc)
