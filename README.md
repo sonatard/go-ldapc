@@ -1,15 +1,11 @@
-`go-ldapc` is a LDAP Authentication Client Module.
+`go-ldapc` is a LDAP Authentication Client Module with only one API.
 ===============================
 
 [![GoDoc](https://godoc.org/github.com/sona-tar/go-ldapc?status.svg)](https://godoc.org/github.com/sona-tar/go-ldapc)
 
-`go-ldapc` privides only one API.
-
-
-
 ## Example
 
-You can provide LDAP User Login on your web page easily.
+You can provide LDAP based authentication on your web page easily.
 
 - Code:
 ```go
