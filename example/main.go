@@ -29,7 +29,7 @@ func main() {
 	}
 
 	// Print all entry
-	// fmt.Printf("%+v\n")
+	// fmt.Printf("%+v\n", entry)
 
 	// username and mail
 	fmt.Printf("username: %v\n", entry.GetAttributeValue("uid"))
